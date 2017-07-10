@@ -1,0 +1,125 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "μία συνεχή γραμμή με κλειστό βέλος που δείχνει προς την κλάση - γονέα.",
+			"flashCardFlipped": false,
+			"questionText": "Η σχέση κληρονομικότητας απεικονίζεται στα διαγράμματα κλάσεων με:",
+			"answers": [
+				{"answer": "μία συνεχή γραμμή με κλειστό βέλος που δείχνει προς την κλάση - παιδί.", "correct": false, "selected": false},
+				{"answer": "μία συνεχή γραμμή με κλειστό βέλος που δείχνει προς την κλάση - γονέα.", "correct": true, "selected": false},
+				{"answer": "μία διακεκομμένη γραμμή με ανοιχτό βέλος που δείχνει προς τη βασική κλάση.", "correct": false, "selected": false},
+				{"answer": "μία ευθεία γραμμή ανάμεσα στις δύο κλάσεις.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "Η υποκλάση κληρονομεί τις μεθόδους και τις ιδιότητες της υπερκλάσης αλλά μπορεί και να ορίσει επιπλέον μεθόδους και ιδιότητες.",
+			"flashCardFlipped": false,
+			"questionText": "Ποιο από τα παρακάτω ισχύει για κλάσεις που συνδέονται μεταξύ τους με σχέση κληρονομικότητας;",
+			"answers": [
+				{"answer": "Η υλοποίηση μιας οποιασδήποτε μεθόδου (εκτός του κατασκευαστή) πρέπει να είναι όμοια στην υπερκλάση και σε όλες τις υποκλάσεις της.", "correct": false, "selected": false},
+				{"answer": "Η υλοποίηση μιας οποιασδήποτε μεθόδου (εκτός του κατασκευαστή) πρέπει να είναι όμοια σε όλες τις υποκλάσεις αλλά όχι στην υπερκλάση.", "correct": false, "selected": false},
+				{"answer": "Οι υποκλασεις πρεπει να έχουν ακριβώς τις ίδιες μεθόδους και ιδιότητες (εκτός από τον κατασκευαστή).", "correct": false, "selected": false},
+				{"answer": "Η υποκλάση κληρονομεί τις μεθόδους και τις ιδιότητες της υπερκλάσης αλλά μπορεί και να ορίσει επιπλέον μεθόδους και ιδιότητες.", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "H υποκλάση κληρονομεί τις ιδιότητες της υπερκλάσης.",
+			"flashCardFlipped": false,
+			"questionText": "Τι ισχύει για την υποκλάση και υπερκλάση σε μία σχέση γενίκευσης;",
+			"answers": [
+				{"answer": "H υπερκλάση δεν πρέπει να είναι αφηρημένη. ", "correct": false, "selected": false},
+				{"answer": "H υποκλάση κληρονομεί τις ιδιότητες της υπερκλάσης.  ", "correct": true, "selected": false},
+				{"answer": "H υποκλάση δεν πρέπει να έχει περισσότερες ιδιότητες από την υπερκλάση.", "correct": false, "selected": false},
+				{"answer": "H υποκλάση μπορεί να κληρονομεί μόνο από μία υπερκλάση.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "Μία κλάση η οποία αποδίδει τα χαρακτηριστικά της σε άλλες πιο ειδικές κλάσεις.",
+			"flashCardFlipped": false,
+			"questionText": "Τι είναι η υπερκλάση ή κλάση – γονέας;",
+			"answers": [
+				{"answer": "Μία κλάση η οποία κληρονομεί μεθόδους και ιδιότητες από μία πιο γενική κλάση.", "correct": false, "selected": false},
+				{"answer": "Η πιο ειδική κλάση σε μια ταξινομική ιεραρχία κλάσεων.", "correct": false, "selected": false},
+				{"answer": "Ένας προσδιοριστής που επιτρέπει ή απαγορεύει την πρόσβαση σε μεθόδους.", "correct": false, "selected": false},
+				{"answer": "Μία κλάση η οποία αποδίδει τα χαρακτηριστικά της σε άλλες πιο ειδικές κλάσεις.", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing32.png' />",
+			"flashCardBack": "Η κλάση Αυτοκίνητο κληρονομεί από την κλάση Όχημα.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια από τις παρακάτω προτάσεις είναι σωστή;",
+			"answers": [
+				{"answer": "Η κλάση Όχημα είναι υποκλάση της κλάσης Αυτοκίνητο.", "correct": false, "selected": false},
+				{"answer": "Η κλάση Αυτοκίνητο είναι υπερκλάση της κλάσης Όχημα.", "correct": false, "selected": false},
+				{"answer": "Η κλάση Αυτοκίνητο κληρονομεί από την κλάση Όχημα.", "correct": true, "selected": false},
+				{"answer": "Η κλάση Αυτοκίνητο ονομάζεται κλάση γονέας.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "Ένα laptop είναι και PC και φορητή συσκευή.",
+			"flashCardFlipped": false,
+			"questionText": "Ποιο από τα παρακάτω αποτελεί παράδειγμα πολλαπλής κληρονομικότητας;",
+			"answers": [
+				{"answer": "Ένα PC μπορεί να είναι desktop ή laptop.", "correct": false, "selected": false},
+				{"answer": "Ένα laptop είναι και PC και φορητή συσκευή.", "correct": true, "selected": false},
+				{"answer": "Τόσο τα Macintosh όσο και τα IBM PC είναι είδη PC.", "correct":false, "selected": false},
+				{"answer": "Ένας υπολογιστής μπορεί να είναι mainframe ή PC.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing33.png' />",
+			"flashCardBack": "Όχημα, Φορτηγό, Μηχανή",
+			"flashCardFlipped": false,
+			"questionText": "Θεωρείστε ότι υπάρχει η μέθοδος doSomethig(Car c). Τα αντικείμενα ποιων κλάσεων δεν μπορούν να περαστούν σε αυτή τη μέθοδο;",
+			"answers": [
+				{"answer": "Όχημα, Φορτηγό, Μηχανή", "correct": true, "selected": false},
+				{"answer": "Sedan, SUV", "correct": false, "selected": false},
+				{"answer": "Μηχανή, Sedan.", "correct": false, "selected": false},
+				{"answer": "Μηχανή, Φορτηγό", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing34.png' />",
+			"flashCardBack": "H κλάση Αυτοκίνητο δεν πρέπει να είναι υποκλάση της κλάσης ΙδιοκτήτηςΑυτοκινήτου.",
+			"flashCardFlipped": false,
+			"questionText": "Ποιο είναι το λάθος στο παρακάτω διάγραμμα;",
+			"answers": [
+				{"answer": "Η κλάση ΙδιοκτήτηςΑυτοκινήτου δεν πρέπει να είναι υποκλάση της κλάσης Άτομο.", "correct": false, "selected": false},
+				{"answer": "H κλάση Αυτοκίνητο δεν πρέπει να είναι υποκλάση της κλάσης ΙδιοκτήτηςΑυτοκινήτου.", "correct": true, "selected": false},
+				{"answer": "Δε γίνεται η κλάση ΙδιοκτήτηςΑυτοκινήτου να είναι υποκλάση δύο κλάσεων.", "correct": false, "selected": false},
+				{"answer": "Κανένα. Το διάγραμμα είναι σωστό.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "Η κλάση Ερώτηση είναι υπερκλάση της κλάσης Quiz.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια από τις παρακάτω προτάσεις είναι λάθος;",
+			"answers": [
+				{"answer": "Aνάμεσα στις κλάσεις Ερώτηση και ΕρώτησηΠολλαπλήςΕπιλογής δεν υπάρχει σχέση κληρονομικότητας.", "correct": false, "selected": false},
+				{"answer": "Η κλάση Ερώτηση είναι υπερκλάση της κλάσης Quiz.", "correct": true, "selected": false},
+				{"answer": "Η κλάση ΛογαριασμόςΤράπεζας είναι υπερκλάση των κλάσεων ΛογαριασμόςΤαμιευτηρίου και ΛογαριασμόςΌψεως.", "correct": false, "selected": false},
+				{"answer": "Η κλάση Manager είναι υποκλάση της κλάσης Υπάλληλος.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing31.png' />",
+			"flashCardBack": "Όλα όσα αναφέρονται.",
+			"flashCardFlipped": false,
+			"questionText": "Ποιο είναι το πλεονέκτημα της κληρονομικότητας;",
+			"answers": [
+				{"answer": "Η αποφυγή επανάληψης κώδικα.", "correct": false, "selected": false},
+				{"answer": "Η επαναχρησιμοποίηση και η πιο εύκολη συντήρηση κώδικα.", "correct": false, "selected": false},
+				{"answer": "Η επεκτασιμότητα.", "correct": false, "selected": false},
+				{"answer": "Όλα όσα αναφέρονται.", "correct": true, "selected": false}
+			]
+		}
+]
+}

@@ -1,0 +1,105 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Σωστό",
+			"flashCardFlipped": false,
+			"questionText": "Η υποκλάση κληρονομεί όλα τα χαρακτηριστικά της υπερκλάσης.",
+			"answers": [
+				{"answer": "Σωστό", "correct": true, "selected": false},
+				{"answer": "Λάθος", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Στη UML η κλάση συμβολίζεται με έναν κύκλο με το όνομά της.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος","correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />.",
+			"flashCardBack": "Η σωστή απάντηση είναι: Σωστό",
+			"flashCardFlipped": false,
+			"questionText": "Οι λειτουργίες προσδιορίζουν τι υπηρεσίες παρέχονται από όλα τα στιγμιότυπα μιας κλάσης.",
+			"answers": [
+				{"answer": "Σωστό", "correct": true, "selected": false},
+				{"answer": "Λάθος", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Ο προσδιοριστής ορατότητας # σημαίνει ότι μία ιδιότητα ή λειτουργία μπορεί να προσπελαθεί μόνο μέσα στην ίδια την κλάση.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Μία κλάση που έχει άμεσα στιγμιότυπα ονομάζεται αφηρημένη κλάση.",
+			"answers": [
+				{"answer": "Σωστό", "correct":false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/E1.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Η σχέση ανάμεσα στην κλάση Αυτοκίνητο και στην κλάση Κινητήρας είναι σχέση σύνθεσης.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/E2.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Η κλάση Σχήμα είναι ειδικότερη κατηγορία της κλάσης Τρίγωνο.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/E3.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Σύμφωνα με το διάγραμμα κάθε πελάτης μπορεί να κάνει μόνο μία παραγγελία.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/E4.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Η κλάση Παραγγελία είναι αφηρημένη κλάση.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/E5.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Ο υπολογισμός Μισθού στην κλάση Υπάλληλος αποτελεί ιδιότητα της κλάσης και απεικονίζεται όπως φαίνεται στο διάγραμμα.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		}
+]
+}
