@@ -1,0 +1,48 @@
+
+.ios, .md {
+
+  	page-hardquiz {
+
+  		ion-slide {
+  			align-items: flex-start;
+        justify-content: flex-start	;
+        overflow: scroll;
+  		}
+
+  		ion-item {
+  			margin-bottom: 5px;
+  			font-size: 1.2em;
+  			background-color: map-get($colors, primary);
+  		}
+
+
+  		flash-card {
+  			color: #000;
+//        div {
+//          color:red;
+//        }
+  			img {
+          perspective: 1000px;
+          width: 90vw;
+          height: 40vh;
+          margin: 20px auto;
+//  				width: 70%;
+//  				height: auto;
+  			}
+  		}
+
+  	/*	.slider-slide {*/
+  			/*border-bottom: 1px solid rgba(0,0,0,0.2);*/
+  /*			overflow: hidden;
+  			color: #000;
+  			background-color: #fff;
+  			text-align: center;
+  		}
+
+  		p {
+  			white-space: nowrap;
+  			float: left;
+  		}*/
+  		}
+
+	}

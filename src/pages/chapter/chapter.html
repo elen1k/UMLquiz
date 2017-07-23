@@ -1,0 +1,276 @@
+<!--
+  Generated template for the ChapterPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color="primary">
+    <ion-title>Chapter {{id+1}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-slides #slides>
+
+    <ion-slide>
+      <h3>{{name}}</h3>
+
+      <ion-grid>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{description}}
+          </ion-col>
+        </ion-row>
+
+        <div *ngFor="let image of arrayimage; let i = index;">
+
+<!--          <ion-row [hidden]=!hidePicture[i] text-justify>-->
+          <ion-row *ngIf="hidePicture[i]" text-align: center>
+              <ion-col>
+                <img src="assets/images/{{image}}"/>
+              </ion-col>
+          </ion-row>
+
+          <ion-row text-justify>
+            <ion-col>
+              {{paragraphs[i]}}
+            </ion-col>
+          </ion-row>
+
+        </div>
+
+
+<!--        <ion-row [hidden]=hidePicture[0] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image1}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p1}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[1] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image2}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p2}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[2] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image3}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p3}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[3] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image4}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p4}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[4] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image5}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p5}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[5] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image6}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p6}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[6] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image7}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p7}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[7] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image8}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p8}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[8] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image9}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p9}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[9] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image10}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p10}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[10] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image11}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p11}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[11] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image12}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p12}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[12] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image13}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p13}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[13] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image14}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p14}}
+          </ion-col>
+        </ion-row>
+
+        <ion-row [hidden]=hidePicture[14] text-justify>
+          <ion-col>
+            <img src="assets/images/{{image15}}"/>
+          </ion-col>
+        </ion-row>
+
+        <ion-row text-justify>
+          <ion-col>
+            {{p15}}
+          </ion-col>
+        </ion-row>
+-->
+      </ion-grid>
+
+<!--      <p text-justify>{{description}}</p>
+      <p text-justify>{{p1}}</p>
+      <p text-wrap>{{p2}}</p>
+      <p text-wrap>{{p3}}</p>
+      <p text-wrap>{{p4}}</p>
+      <p text-wrap>{{p5}}</p>
+-->
+      <button ion-button small color="dark" (click)="nextSlide()">Δες τι έμαθες</button>
+    </ion-slide>
+
+    <ion-slide *ngFor="let question of questions; let i = index;">
+
+      <h3>Question {{i+1}}/10</h3>
+
+      <flash-card [isFlipped]="question.flashCardFlipped">
+        <div class="flash-card-front" [innerHTML]="question.flashCardFront"></div>
+        <div class="flash-card-back" [style.color]=color [innerHTML]="question.flashCardBack"></div>
+      </flash-card>
+
+      <h4>{{question.questionText}}</h4>
+
+      <ion-list text-wrap>
+
+        <ion-item *ngFor="let answer of question.answers; let i = index;">
+
+          <ion-label>{{i+1}}. {{answer.answer}}</ion-label>
+          <ion-radio (click)="selectAnswer(answer, question)" [checked]="answer.selected" [disabled]="hasAnswered"></ion-radio>
+
+        </ion-item>
+
+      </ion-list>
+
+    </ion-slide>
+
+    <ion-slide>
+      <h2>Οι πόντοι που μάζεψες είναι:</h2>
+      <button ion-button round large color="dark">{{score}}</button>
+      <button (click)="restartQuiz()" ion-button full color="primary">Start Again</button>
+      <button (click)="GoToHomePage()" ion-button full color="primary">Read Again</button>
+      <button (click)="GoToLessonsPage()" ion-button full color="primary">Exit Chapter</button>
+    </ion-slide>
+
+  </ion-slides>
+
+
+</ion-content>
