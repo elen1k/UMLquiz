@@ -1,0 +1,125 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='assets/images/Drawing21.png' />",
+			"flashCardBack": "4...7,9 Τέσσερα, Εφτά ή Εννέα",
+			"flashCardFlipped": false,
+			"questionText": "Ποια από τις παρακάτω πολλαπλότητες ερμηνεύεται λάθος;",
+			"answers": [
+				{"answer": "0...* Μηδέν ή περισσότερα", "correct": false, "selected": false},
+				{"answer": "1...* Ένα ή περισσότερα", "correct": false, "selected": false},
+				{"answer": "0...1 Μηδέν ή ένα", "correct": false, "selected": false},
+				{"answer": "4...7,9 Τέσσερα, Εφτά ή Εννέα", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing21.png' />",
+			"flashCardBack": "Περιορίζει  τον αριθμό των αντικειμένων μιας κλάσης που μπορεί να συνδεθεί με ένα αντικείμενο μιας άλλης κλάσης.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια είναι η έννοια της πολλαπλότητας μιας συσχέτισης;",
+			"answers": [
+				{"answer": "Περιορίζει τον αριθμό των φορών που ένα αντικείμενο μιας κλάσης μπορεί να συνδεθεί κατά τη διάρκεια της ζωής του.", "correct": false, "selected": false},
+				{"answer": "Υποδηλώνει τον αριθμό των διαφορετικών κλάσεων που μπορούν να συνδέονται μεταξύ τους.", "correct": false, "selected": false},
+				{"answer": "Περιορίζει  τον αριθμό των αντικειμένων μιας κλάσης που μπορεί να συνδεθεί με ένα αντικείμενο μιας άλλης κλάσης.", "correct": true, "selected": false},
+				{"answer": "Υποδηλώνει τον αριθμό των συσχετίσεων μεταξύ δύο κλάσεων.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing21.png' />",
+			"flashCardBack": "Κάθε συσχέτιση έχει δύο άκρα τα οποία είναι δυνατόν να ονομαστούν ώστε να προσδιορίζουν ρόλους.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια από τις παρακάτω προτάσεις είναι σωστή σχετικά με τις συσχετίσεις στα διαγράμματα κλάσεων;",
+			"answers": [
+				{"answer": "Κάθε συσχέτιση πρέπει να έχει όνομα που δηλώνεται με ένα ρήμα.", "correct": false, "selected": false},
+				{"answer": "Εάν δεν υπάρχει όνομα ρόλου, χρησιμοποιείται το όνομα της αντίστοιχης κλάσης.", "correct": false, "selected": false},
+				{"answer": "Κάθε συσχέτιση έχει δύο άκρα τα οποία είναι δυνατόν να ονομαστούν ώστε να προσδιορίζουν ρόλους.", "correct": true, "selected": false},
+				{"answer": "Μία συσχέτιση συμβολίζεται με μία διακεκομμένη γραμμή που συνδέει τις κλάσεις που συμμετέχουν. ", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing22.png' />",
+			"flashCardBack": "πολλά προς ένα",
+			"flashCardFlipped": false,
+			"questionText": "Προσδιορίστε την πολλαπλότητα της συσχέτισης «εργάζεται σε» μεταξύ της κλάσης «Υπάλληλος» και της κλάσης «Επιχείρηση».",
+			"answers": [
+				{"answer": "πολλά προς ένα", "correct": true, "selected": false},
+				{"answer": "ένα προς πολλά", "correct": false, "selected": false},
+				{"answer": "πολλά προς πολλά", "correct": false, "selected": false},
+				{"answer": "ένα προς ένα", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing23.png' />",
+			"flashCardBack": "Ένας επιβάτης πρέπει να έχει κάνει τουλάχιστον μία κράτηση εισιτηρίου.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια πρόταση είναι λάθος;",
+			"answers": [
+				{"answer": "Μια κράτηση εισιτηρίου γίνεται πάντοτε από έναν ακριβώς επιβάτη.", "correct": false, "selected": false},
+				{"answer": " Ένας επιβάτης μπορεί να κάνει πολλές κρατήσεις (σε διαφορετικές πτήσεις).", "correct": false, "selected": false},
+				{"answer": "Σε μια πτήση μπορεί και να μην έχουν γίνει κρατήσεις θέσεων.", "correct": false, "selected": false},
+				{"answer": "Ένας επιβάτης πρέπει να έχει κάνει τουλάχιστον μία κράτηση εισιτηρίου.", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing24.png' />",
+			"flashCardBack": "Μία videoταινία μπορεί να είναι ή όχι νοικιασμένη.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια πρόταση είναι σωστή;",
+			"answers": [
+				{"answer": "Ένας πελάτης νοικιάζει ακριβώς μία ταινία.", "correct": false, "selected": false},
+				{"answer": "Μία videoταινία μπορεί να είναι ή όχι νοικιασμένη.", "correct": true, "selected": false},
+				{"answer": "Το VideoClub έχει τουλάχιστον έναν πελάτη.", "correct": false, "selected": false},
+				{"answer": "Το VideoClub διαθέτει μία ή περισσότερες βιντεοταινίες. ", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing25.png' />",
+			"flashCardBack": "To A",
+			"flashCardFlipped": false,
+			"questionText": "Κάθε παραγγελία γίνεται σε έναν σερβιτόρο και κάθε σερβιτόρος δέχεται πολλές παραγγελίες. Ποιο διάγραμμα κλάσεων απεικονίζει τα παραπάνω;",
+			"answers": [
+				{"answer": "To Α", "correct": true, "selected": false},
+				{"answer": "Το Β", "correct": false, "selected": false},
+				{"answer": "Το Γ", "correct": false, "selected": false},
+				{"answer": "Το Δ ", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing26.png' />",
+			"flashCardBack": "ένα προς ένα",
+			"flashCardFlipped": false,
+			"questionText": "Υποθέστε ότι κάθε ανώνυμη εταιρεία (ΑΕ) διοικείται από ένα Διοικητικό Συμβούλιο (ΔΣ). Διαλέξτε την πολλαπλότητα της συσχέτισης «διοικείται_από» μεταξύ της κλάσης «ΑΕ» και της κλάσης «ΔΣ».",
+			"answers": [
+				{"answer": "πολλά προς ένα", "correct": false, "selected": false},
+				{"answer": "ένα προς πολλά", "correct": false, "selected": false},
+				{"answer": "πολλά προς πολλά", "correct": false, "selected": false},
+				{"answer": "ένα προς ένα", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing27.png' />",
+			"flashCardBack": "Ένα αντικείμενο της κλάσης «Βαθμός» δε χρειάζεται να συνδέεται με κάποιο αντικείμενο της κλάσης «Εργαζόμενος",
+			"flashCardFlipped": false,
+			"questionText": "Βρείτε το σωστό",
+			"answers": [
+				{"answer": "Ένα αντικείμενο της κλάσης «Εργαζόμενος» δε χρειάζεται να συνδέεται με κάποιο αντικείμενο της κλάσης «Βαθμός».", "correct": false, "selected": false},
+				{"answer": "Ένα αντικείμενο της κλάσης «Βαθμός» δε χρειάζεται να συνδέεται με κάποιο αντικείμενο της κλάσης «Εργαζόμενος».", "correct": true, "selected": false},
+				{"answer": "Ένα αντικείμενο της κλάσης «Εργαζόμενος» συνδέεται αποκλειστικά με ένα αντικείμενο της κλάσης «Βαθμός».", "correct": false, "selected": false},
+				{"answer": "Ένα αντικείμενο της κλάσης «Βαθμός» δεν μπορεί να συνδέεται με κάποιο αντικείμενο της κλάσης «Βαθμός».", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing28.png' />",
+			"flashCardBack": "Το Γ",
+			"flashCardFlipped": false,
+			"questionText": "Σε ένα ραντεβού στα τυφλά συναντιούνται ακριβώς δύο άτομα. Ένα άτομο μπορεί να συμμετέχει σε πολλά ραντεβού. Δεν αρκεί να γνωρίζετε κάποιο άτομο για να αντλήσετε όλα τα ραντεβού του. Ποιο διάγραμμα κλάσεων απεικονίζει τα παραπάνω;",
+			"answers": [
+				{"answer": "Το Α", "correct": false, "selected": false},
+				{"answer": "Το Β", "correct": false, "selected": false},
+				{"answer": "Το Γ", "correct": true, "selected": false},
+				{"answer": "Το Δ", "correct": false, "selected": false}
+			]
+		}
+]
+}

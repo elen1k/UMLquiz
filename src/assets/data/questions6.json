@@ -1,0 +1,125 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='assets/images/Drawing61.png' />",
+			"flashCardBack": "Χρησιμοποιούνται όπως και οι άλλες κλάσεις.",
+			"flashCardFlipped": false,
+			"questionText": "Οι κλάσεις συσχέτισης:",
+			"answers": [
+				{"answer": "Δε συσχετίζονται με άλλες κλάσεις.", "correct": false, "selected": false},
+				{"answer": "Χρησιμοποιούνται όπως και οι άλλες κλάσεις.", "correct": true, "selected": false},
+				{"answer": "Μπορούν να συσχετιστούν με το πολύ δύο κλάσεις.", "correct": false, "selected": false},
+				{"answer": "Χρησιμοποιούνται μόνο σε συσχετίσεις πολλά προς πολλά.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing61.png' />",
+			"flashCardBack": "Μία κλάση που αποδίδει ιδιότητες και λειτουργίες σε μία συσχέτιση μεταξύ δύο κλάσεων.",
+			"flashCardFlipped": false,
+			"questionText": "Τι είναι η κλάση συσχέτισης;",
+			"answers": [
+				{"answer": "Μία κλάση που αποδίδει ιδιότητες και λειτουργίες σε μία συσχέτιση μεταξύ δύο κλάσεων.", "correct": true, "selected": false},
+				{"answer": "Ένας όρος που χρησιμοποιείται για να διακρίνουμε την κλάση – γονέα από μία συσχέτιση.","correct": false, "selected": false},
+				{"answer": "Μία κλάση που χρησιμοποιείται για να αντικαταστήσει μία σχέση ένα προς ένα ανάμεσα σε δύο κλάσεις.", "correct": false, "selected": false},
+				{"answer": "Μία υποκλάση χωρίς ιδιότητες και λειτουργίες.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing62.png' />.",
+			"flashCardBack": "Μία εταιρεία μπορεί να μην έχει κανέναν εργαζόμενο.",
+			"flashCardFlipped": false,
+			"questionText": "Βρείτε το σωστό.",
+			"answers": [
+				{"answer": "Μία εταιρεία μπορεί να απασχολεί 0 ή 1 άτομα.", "correct": false, "selected": false},
+				{"answer": "Ένα άτομο έχει μία απασχόληση.", "correct": false, "selected": false},
+				{"answer": "Μία εταιρεία έχει έναν εργαζόμενο που είναι άτομο.", "correct": false, "selected": false},
+				{"answer": "Μία εταιρεία μπορεί να μην έχει κανέναν εργαζόμενο.", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing63.png' />",
+			"flashCardBack": "Το Δ",
+			"flashCardFlipped": false,
+			"questionText": "Ένας εποχιακός εργαζόμενος μπορεί να απασχοληθεί σε μία ή περισσότερες περιόδους και διατηρείται η αρχή και το τέλος κάθε περιόδου απασχόλησης. Ποιο είναι το σωστό διάγραμμα;",
+			"answers": [
+				{"answer": "Το Α", "correct": false, "selected": false},
+				{"answer": "Το Β", "correct": false, "selected": false},
+				{"answer": "Το Γ", "correct": false, "selected": false},
+				{"answer": "Το Δ", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing64.png' />",
+			"flashCardBack": "Ένας ενοικιαστής μπορεί να νοικιάσει το ίδιο διαμέρισμα πολλές φορές με διαφορετικά ενοικιαστήρια συμβόλαια.",
+			"flashCardFlipped": false,
+			"questionText": "Βρείτε το λάθος.",
+			"answers": [
+				{"answer": "Ένας ενοικιαστής μπορεί να νοικιάσει πολλά διαμερίσματα με διαφορετικά ενοικιαστήρια συμβόλαια.", "correct": false, "selected": false},
+				{"answer": "Ένα διαμέρισμα μπορεί να νοικιαστεί από πολλούς ενοικιαστές με διαφορετικά ενοικιαστήρια συμβόλαια.", "correct": false, "selected": false},
+				{"answer": "Ένας ενοικιαστής μπορεί να μη νοικιάσει διαμέρισμα.", "correct":false, "selected": false},
+				{"answer": "Ένας ενοικιαστής μπορεί να νοικιάσει το ίδιο διαμέρισμα πολλές φορές με διαφορετικά ενοικιαστήρια συμβόλαια.", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing66.png' />",
+			"flashCardBack": "Το Δ",
+			"flashCardFlipped": false,
+			"questionText": "Κατά τη διάρκεια του πρωταθλήματος, πολλοί παίκτες συμμετέχουν σε πολλούς αγώνες. Κάθε παίκτης πετυχαίνει συγκεκριμένα γκολ σε κάθε παιχνίδι.",
+			"answers": [
+				{"answer": "Το Α", "correct": false, "selected": false},
+				{"answer": "Το Β", "correct": false, "selected": false},
+				{"answer": "Το Γ", "correct": false, "selected": false},
+				{"answer": "Το Δ", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing65.png' />",
+			"flashCardBack": "Το Β",
+			"flashCardFlipped": false,
+			"questionText": "Μία εταιρεία πραγματοποιεί έργα. Κάθε έργο το αναλαμβάνει μία ομάδα εργαζομένων. Ποιο διάγραμμα είναι το σωστό;",
+			"answers": [
+				{"answer": "Το Α.", "correct": false, "selected": false},
+				{"answer": "Το Β", "correct": true, "selected": false},
+				{"answer": "Και το Α και το Β.", "correct": false, "selected": false},
+				{"answer": "Κανένα από τα δύο.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing67.png' />",
+			"flashCardBack": "Με ενσωμάτωση των ιδιοτήτων της κλάσης συσχέτισης στην κλάση Καθηγητής.",
+			"flashCardFlipped": false,
+			"questionText": "Πώς μπορεί να γίνει αναπαράσταση της ίδιας κατάστασης χωρίς τη χρήση της κλάσης συσχέτισης;",
+			"answers": [
+				{"answer": "Με ενσωμάτωση των ιδιοτήτων της κλάσης συσχέτισης στην κλάση Καθηγητής.", "correct": true, "selected": false},
+				{"answer": "Με ενσωμάτωση των ιδιοτήτων της κλάσης συσχέτισης στην κλάση Τμήμα.", "correct": false, "selected": false},
+				{"answer": "Με τη δημιουργία μιας νέας κλάσης με όνομα Μισθός.", "correct": false, "selected": false},
+				{"answer": "Δεν υπάρχει δυνατότητα αναπαράστασης χωρίς την κλάση συσχέτισης.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing68.png' />",
+			"flashCardBack": "Με διάσπαση της συσχέτισης σε δύο ένα προς πολλά συσχετίσεις και εισαγωγή της κλάσης συσχέτισης ως κανονική κλάση μεταξύ των δύο άλλων.",
+			"flashCardFlipped": false,
+			"questionText": "Πώς μπορεί να γίνει αναπαράσταση της ίδιας κατάστασης χωρίς τη χρήση της κλάσης συσχέτισης;",
+			"answers": [
+				{"answer": "Με διάσπαση της συσχέτισης σε δύο ένα προς πολλά συσχετίσεις και εισαγωγή της κλάσης συσχέτισης ως κανονική κλάση μεταξύ των δύο άλλων.", "correct": true, "selected": false},
+				{"answer": "Με ενσωμάτωση των ιδιοτήτων της κλάσης συσχέτισης στην κλάση Φοιτητής.", "correct": false, "selected": false},
+				{"answer": "Με ενσωμάτωση των ιδιοτήτων της κλάσης συσχέτισης στην κλάση Τάξη.", "correct": false, "selected": false},
+				{"answer": "Δεν υπάρχει δυνατότητα αναπαράστασης χωρίς την κλάση συσχέτισης.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing69.png' />",
+			"flashCardBack": "Ο εργαζόμενος δεν μπορεί να έχει δύο εργασίες στην ίδια εταιρεία.",
+			"flashCardFlipped": false,
+			"questionText": "Ο περιορισμός της κλάσης συσχέτισης είναι ότι:",
+			"answers": [
+				{"answer": "Ένας εργαζόμενος δεν μπορεί να εργάζεται σε πολλές εταιρείες.", "correct": false, "selected": false},
+				{"answer": "Μία εταιρεία δεν μπορεί να απασχολεί πολλούς εργαζόμενους.", "correct": false, "selected": false},
+				{"answer": "Ο εργαζόμενος δεν μπορεί να έχει δύο εργασίες στην ίδια εταιρεία.", "correct": true, "selected": false},
+				{"answer": "Οι εργαζόμενοι που δουλεύουν σε μία εταιρεία λαμβάνουν τον ίδιο μισθό.", "correct": false, "selected": false}
+			]
+		}
+]
+}

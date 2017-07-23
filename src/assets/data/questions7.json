@@ -1,0 +1,125 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='assets/images/Drawing71.png' />",
+			"flashCardBack": "private",
+			"flashCardFlipped": false,
+			"questionText": "Κατά τη μετατροπή της UML σε Java το – μπροστά από μία ιδιότητα σημαίνει:",
+			"answers": [
+				{"answer": "private", "correct": true, "selected": false},
+				{"answer": "public", "correct": false, "selected": false},
+				{"answer": "protected", "correct": false, "selected": false},
+				{"answer": "απλά παραλείπεται", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing71.png' />",
+			"flashCardBack": "Δημιουργεί ένα νέο στιγμιότυπο μιας κλάσης.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια είναι η λειτουργία του κατασκευαστή μιας κλάσης;",
+			"answers": [
+				{"answer": "Ενημερώνει ένα υπάρχον στιγμιότυπο μιας κλάσης.", "correct": false, "selected": false},
+				{"answer": "Διαγράφει ένα υπάρχον στιγμιότυπο μιας κλάσης.","correct": false, "selected": false},
+				{"answer": "Δημιουργεί ένα νέο στιγμιότυπο μιας κλάσης.", "correct": true, "selected": false},
+				{"answer": "Καμία από αυτές που αναφέρονται.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing72.png' />.",
+			"flashCardBack": "Η κλάση Vehicle είναι υπερκλάση της κλάσης Bike.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια είναι η ερμηνεία του παραπάνω κώδικα java;",
+			"answers": [
+				{"answer": "κλάση Bike είναι υπερκλάση της κλάσης Vehicle.", "correct": false, "selected": false},
+				{"answer": "Η κλάση Vehicle είναι υπερκλάση της κλάσης Bike.", "correct": true, "selected": false},
+				{"answer": "Οι κλάσεις Bike και Vehicle συνδέονται με σχέση συνάθροισης.", "correct": false, "selected": false},
+				{"answer": "Η ιδιότητα saddleHeight κληρονομείται από την κλάση Bike στην κλάση Vehicle.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing73.png' />",
+			"flashCardBack": "Ένα αντικείμενο της κλάσης Β περιέχει τα πεδία i, j, k, m.",
+			"flashCardFlipped": false,
+			"questionText": "Ποια από τις ακόλουθες προτάσεις ερμηνεύει με μεγαλύτερη ακρίβεια τη σχέση των κλάσεων Α και Β;",
+			"answers": [
+				{"answer": "Ένα αντικείμενο της κλάσης Β περιέχει τα πεδία j, k, m.", "correct": false, "selected": false},
+				{"answer": "Ένα αντικείμενο της κλάσης Β περιέχει τα πεδία k, m.", "correct": false, "selected": false},
+				{"answer": "Ένα αντικείμενο της κλάσης Β περιέχει τα πεδία j, m.", "correct": false, "selected": false},
+				{"answer": "Ένα αντικείμενο της κλάσης Β περιέχει τα πεδία i, j, k, m.", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing74.png' />",
+			"flashCardBack": "False",
+			"flashCardFlipped": false,
+			"questionText": "Τι θα τυπώσει ο παραπάνω κώδικας java;",
+			"answers": [
+				{"answer": "False", "correct": true, "selected": false},
+				{"answer": "True", "correct": false, "selected": false},
+				{"answer": "o1", "correct":false, "selected": false},
+				{"answer": "o2", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing75.png' />",
+			"flashCardBack": "Πολυμορφισμό",
+			"flashCardFlipped": false,
+			"questionText": "Στο παραπάνω διάγραμμα κλάσεων η μέθοδος printInformation() εκτός από την υπερκλάση σημειώνεται και στις υποκλάσεις, διότι επαναορίζεται σε αυτές. Αυτό οφείλεται στον:",
+			"answers": [
+				{"answer": "Πολυμορφισμό", "correct": true, "selected": false},
+				{"answer": "Κληρονομικότητα", "correct": false, "selected": false},
+				{"answer": "Ενθυλάκωση", "correct": false, "selected": false},
+				{"answer": "Πολλαπλότητα", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing76.png' />",
+			"flashCardBack": "στο Α",
+			"flashCardFlipped": false,
+			"questionText": "Σε ποιο UML διάγραμμα αντιστοιχεί ο κώδικας σε java;",
+			"answers": [
+				{"answer": "στο Α", "correct": true, "selected": false},
+				{"answer": "στο Β", "correct": false, "selected": false},
+				{"answer": "στο Γ", "correct": false, "selected": false},
+				{"answer": "σε κανένα από τα Α, Β ή Γ", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing77.png' />",
+			"flashCardBack": "ο Β",
+			"flashCardFlipped": false,
+			"questionText": "Ποιος είναι ο σωστός κώδικας Java που αντιστοιχεί στο UML διάγραμμα;",
+			"answers": [
+				{"answer": "o A", "correct": false, "selected": false},
+				{"answer": "ο Β", "correct": true, "selected": false},
+				{"answer": "και ο Α και ο Β", "correct": false, "selected": false},
+				{"answer": "κανένας από τους Α και Β", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing78.png' />",
+			"flashCardBack": "o A",
+			"flashCardFlipped": false,
+			"questionText": "Ποιος είναι ο σωστός κώδικας Java που αντιστοιχεί στο UML διάγραμμα;",
+			"answers": [
+				{"answer": "o A", "correct": true, "selected": false},
+				{"answer": "ο Β", "correct": false, "selected": false},
+				{"answer": "και ο Α και ο Β", "correct": false, "selected": false},
+				{"answer": "κανένας από τους Α και Β", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/Drawing79.png' />",
+			"flashCardBack": "ο Γ",
+			"flashCardFlipped": false,
+			"questionText": "Ποιος είναι ο σωστός κώδικας Java που αντιστοιχεί στο UML διάγραμμα;",
+			"answers": [
+				{"answer": "o A", "correct": false, "selected": false},
+				{"answer": "ο Β", "correct": false, "selected": false},
+				{"answer": "ο Γ", "correct": true, "selected": false},
+				{"answer": "κανένας από τους Α, Β και Γ", "correct": false, "selected": false}
+			]
+		}
+]
+}

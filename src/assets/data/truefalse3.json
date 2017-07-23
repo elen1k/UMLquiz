@@ -1,0 +1,105 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Σωστό",
+			"flashCardFlipped": false,
+			"questionText": "Οι κλάσεις και οι διεπαφές είναι δύο ταξινομητές στα διαγράμματα κλάσεων.",
+			"answers": [
+				{"answer": "Σωστό", "correct": true, "selected": false},
+				{"answer": "Λάθος", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Σωστό",
+			"flashCardFlipped": false,
+			"questionText": "Μία κλάση συσχέτισης επιτρέπει το χειρισμό μίας συσχέτισης σαν κλάση αποδίδοντάς της ιδιότητες και λειτουργίες.",
+			"answers": [
+				{"answer": "Σωστό", "correct": true, "selected": false},
+				{"answer": "Λάθος","correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />.",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Τα διαγράμματα κλάσεων είναι ένας καλός τρόπος απεικόνισης της αλγοριθμικής φύσης των αλληλεπιδράσεων μεταξύ των κλασεων.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Σωστό",
+			"flashCardFlipped": false,
+			"questionText": "Μια κλάση που κάνει implement μια διεπαφή, πρέπει υποχρεωτικά να υλοποιεί όλες τις μεθόδους της διεπαφής.",
+			"answers": [
+				{"answer": "Σωστό", "correct": true, "selected": false},
+				{"answer": "Λάθος", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/swstolathos.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Ένα συγκεκριμένο δωμάτιο είναι τμήμα ενός μόνο κτιρίου, επομένως δωμάτιο και κτίριο συνδέονται μεταξύ τους με σχέση συναρμολόγησης.",
+			"answers": [
+				{"answer": "Σωστό", "correct":false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/H1.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "O Υπάλληλος Μερικής Απασχόλησης έχει τον ίδιο τρόπο υπολογισμού μισθού με τον Υπάλληλο.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/H2.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Σωστό",
+			"flashCardFlipped": false,
+			"questionText": "Κάθε Μαθητής μπορεί να έχει μόνο ένα ΆριστοΕπίπεδοΓνώσης για κάθε ξένη γλώσσα.",
+			"answers": [
+				{"answer": "Σωστό", "correct": true, "selected": false},
+				{"answer": "Λάθος", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/H3.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Τα αντικείμενα της κλάσης StationWagon δεν έχουν ιδιότητες.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/H3.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Η κλάση SportsCar έχει μέθοδο AddWheel().",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/H4.png' />",
+			"flashCardBack": "Η σωστή απάντηση είναι: Λάθος",
+			"flashCardFlipped": false,
+			"questionText": "Δεν υπάρχουν αφηρημένες κλάσεις στο διάγραμμα και κάθε Reader έχει ακριβώς έναν Reader Account.",
+			"answers": [
+				{"answer": "Σωστό", "correct": false, "selected": false},
+				{"answer": "Λάθος", "correct": true, "selected": false}
+			]
+		}
+]
+}
